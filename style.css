@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.m1 {
+color: white;
+width: 500px;
+height: 500px;
+background-color: red;
+border-bottom-color: border-color;
+}
