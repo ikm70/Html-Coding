@@ -1,7 +1,7 @@
 
 * {
   box-sizing: border-box;
-  background-color: teal;
+  
 }
 
 /* Style the body */
@@ -11,7 +11,7 @@ body {
   max-width: 960px;
   height: auto;
   padding: 0px 5px 0px 5px;
-  background-color: whitesmoke;
+ 
 
 }
 
@@ -108,5 +108,3 @@ body {
     width: 100%;
   }
 }
-
-<!--this is the comment  -->
